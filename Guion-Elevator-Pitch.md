@@ -1,4 +1,6 @@
-# Elevator Pitch
+# Elevator Pitch: Centro de kinesiologia "RehabilitAR"
+
+Duracion: 1 minuto
 
 ## Pregunta o afirmacion
 Todavía gestionás tu centro de kinesiología con agendas en papel que terminan generando más problemas que soluciones?
