@@ -1,8 +1,6 @@
-# 🧑‍💻 Ingeniería de Software II
+# Ingeniería de Software II
 
- 🗓️ Cursada actual
-
-## 📖 Descripción
+## Descripción
 
 Este repositorio contiene el desarrollo práctico de la materia **Ingeniería de Software II**, centrada en el ciclo de vida completo del software.
 
@@ -10,11 +8,11 @@ El proyecto desarrollado durante la cursada consiste en la construcción de un s
 
 ---
 
-## 🏥 Proyecto: RehabilitAR
+## Proyecto: RehabilitAR
 
 **RehabilitAR** es una plataforma web orientada a la gestión integral de un centro de rehabilitación.
 
-### 🎯 Objetivo
+### Objetivo
 
 Mejorar la eficiencia operativa del centro mediante la automatización de:
 
@@ -27,9 +25,9 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
-## ⚙️ Funcionalidades principales
+## Funcionalidades principales
 
-### 👤 Clientes
+### Clientes
 
 * Registro y gestión de cuenta
 * Suscripción mensual (clase semanal)
@@ -39,14 +37,14 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 * Registro de asistencia mediante QR
 * Recepción de notificaciones
 
-### 🧑‍🏫 Profesores
+### Profesores
 
 * Visualización de clases asignadas
 * Registro y validación de asistencia
 * Gestión de comentarios por clase
 * Asignación a clases disponibles
 
-### 🧑‍💼 Administradores
+### Administradores
 
 * Creación, edición y eliminación de clases
 * Gestión de usuarios y roles
@@ -55,7 +53,7 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 * Generación de reportes y estadísticas
 * Administración de suspensiones
 
-### 🧾 Recepcionistas
+### Recepcionistas
 
 * Registro de clientes
 * Gestión de pagos presenciales
@@ -63,7 +61,7 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
-## 📋 Reglas de negocio destacadas
+## Reglas de negocio destacadas
 
 * Suscripciones mensuales con descuentos si se contratan a mitad de mes
 * Suspensión automática por:
@@ -79,7 +77,7 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
-## 🧩 Contenidos de la materia
+## Contenidos de la materia
 
 * Gestión de proyectos
 * Diseño de software
@@ -90,7 +88,7 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
-## ⚙️ Metodología de trabajo
+## Metodología de trabajo
 
 * Trabajo en equipos de 5 integrantes
 * Uso de metodologías ágiles (Scrum)
@@ -98,9 +96,9 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
-## 📅 Cronograma práctico
+## Cronograma práctico
 
-### 📝 Entregas iniciales
+### Entregas iniciales
 
 * **Entrega 1**
 
@@ -116,7 +114,7 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
-### 🔄 Iteraciones (Scrum)
+### Iteraciones (Scrum)
 
 * Planning 1
 
@@ -136,7 +134,7 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
-## 🧪 Tecnologías e integraciones
+## Tecnologías e integraciones
 
 * API de pagos (Mercado Pago)
 * Sistema de notificaciones por email (SMTP)
@@ -146,20 +144,14 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
-## 📊 Estado del proyecto
-
-🚧 En desarrollo (cursada actual)
-
----
-
-## 👥 Equipo
+## Equipo
 
 Proyecto desarrollado en el marco de la materia Ingeniería de Software II.
 Trabajo grupal con roles definidos y evaluaciones individuales y grupales.
 
 ---
 
-## 📌 Notas
+## Notas
 
 * El sistema está diseñado como una solución web responsive (PC y mobile)
 * Se prioriza la usabilidad, especialmente para usuarios adultos mayores
@@ -167,4 +159,3 @@ Trabajo grupal con roles definidos y evaluaciones individuales y grupales.
   * Nuevos métodos de pago
   * Mejores reportes
   * Gestión avanzada de apto físico
-
