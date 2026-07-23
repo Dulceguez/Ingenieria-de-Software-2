@@ -134,6 +134,13 @@ Mejorar la eficiencia operativa del centro mediante la automatización de:
 
 ---
 
+## Repositorios del codigo fuente
+
+* **Frontend:** [Repo de frontend en Github](https://github.com/Dulceguez/RehabilitAR/tree/main/frontend)
+* **Backend:** [Repo de backend en Github](https://github.com/Dulceguez/RehabilitAR/tree/main/backend)
+  
+---
+
 ## Tecnologías e integraciones
 
 * API de pagos (Mercado Pago)
