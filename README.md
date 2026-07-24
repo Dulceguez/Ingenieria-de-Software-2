@@ -1,8 +1,8 @@
 # Ingeniería de Software II  
 
 # RehabilitAR  
-Proyecto web
-**[Ver aplicacion en vivo](https://rehabilitacion-ar.vercel.app)**
+Proyecto web  
+**[Ver aplicacion en vivo](https://rehabilit-ar.vercel.app/login)**
 
 ---
 
