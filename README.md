@@ -2,7 +2,7 @@
 
 # RehabilitAR  
 Proyecto web
-**[Ver aplicacion en vivo](rehabilitación-ar.vercel.app)**
+**[Ver aplicacion en vivo](https://rehabilitación-ar.vercel.app)**
 
 ---
 
