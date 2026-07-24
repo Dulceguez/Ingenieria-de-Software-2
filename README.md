@@ -2,7 +2,7 @@
 
 # RehabilitAR  
 Proyecto web  
-**[Ver aplicacion en vivo](https://rehabilitación-ar.vercel.app)**
+**[Ver aplicacion en vivo](https://rehabilit-ar-git-main-dulceguezs-projects.vercel.app)**
 
 ---
 
